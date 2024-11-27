@@ -1,0 +1,13 @@
+{
+  "name": "demo-nodejs-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js application for AWS CodePipeline and Jenkins demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "node src/build.js"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
+
